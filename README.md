@@ -23,5 +23,5 @@ Bu proje, AWS üzerinde sunucusuz (serverless) bir mimari kullanarak döviz kurl
 4. API Gateway (HTTP API) tetikleyicisi eklendi.
 
 ## Geliştirme Planı
-- [ ] Gerçek bir döviz kuru API'si entegrasyonu (TCMB veya ExchangeRate API).
-- [ ] Frontend (HTML/JS) eklenerek verilerin görselleştirilmesi.
+- Gerçek bir döviz kuru API'si entegrasyonu (TCMB veya ExchangeRate API).
+- Frontend (HTML/JS) eklenerek verilerin görselleştirilmesi.
