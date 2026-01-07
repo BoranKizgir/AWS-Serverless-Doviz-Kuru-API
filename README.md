@@ -24,6 +24,8 @@ Bu proje, AWS üzerinde sunucusuz (serverless) bir mimari kullanarak döviz kurl
 - Gerçek bir döviz kuru API'si entegrasyonu (TCMB veya ExchangeRate API).
 - Frontend (HTML/JS) eklenerek verilerin görselleştirilmesi.
 
+## Ekran Görüntüleri
 ![](explanation_1.png)
 ![](explanation_2.png)
-![](explanation_3.png)
+![](explanation_3.png) 
+![](AWS-Serverless-Doviz-Kuru-API.png)
